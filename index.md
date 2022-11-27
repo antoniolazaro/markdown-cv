@@ -39,7 +39,7 @@ Professional with more than 15 years of experience building corporate applicatio
 
 ### Professional
 
-`04/2020 - 07/2021`
+`04/2020 - 11/2021`
 __Software Developer__, [Jaya Tech](https://www.linkedin.com/company/jaya-apps/mycompany/){:target="_blank"} - Remote
 - Short description:
 - Tech Stack: Java, Kotlin, AWS, RabitMQ, SQS, SNS, SpringBoot, CI/CD, GIT, K8, Docker, Kibana
