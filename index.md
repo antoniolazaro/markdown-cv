@@ -37,14 +37,13 @@ Professional with more than 15 years of experience building corporate applicatio
 
 ## Occupation
 
+### Academic
+
 `1600`
 __Royal Mint__, London
 
-- Warden
-- Minted coins
+### Professional
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 ## Education
 
@@ -73,7 +72,7 @@ __Regular Student - Activities and societies__:
 - *Tutor:* [PHD Vaninha Vieira](https://www.linkedin.com/in/vaninha-vieira-bab2098/){:target="_blank"}
 - *Area of interest:* Context Sensitive System, Computing Aware
 
-## Awards
+## Awards and titles
 
 ### Academic 
 `2022`
@@ -82,9 +81,28 @@ __Regular Student - Activities and societies__:
 - *Where:* 28 Working Conference on Requirements Engineering: Foudation for Software Quality (Birmingham, Uk)
 
 ### Professional
+
+`2007`
+- SCJP (Sun Certified Java Professional 1.4
+
 `2005`
 - *Award:* Champion by team Java Programming Marathon
 - *Where:* FTC/Sou Java (Salvador, BR)
+
+## Courses and events participations
+
+### Academic 
+`04/2015`
+- [XV Erbase (Encontro regional Bahia x Sergipe](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/5/xv-erbase){:target="_blank"}
+
+### Professional
+
+`2017`
+- TDC (The Developer Conference) São Paulo - SP
+
+`2016`
+- Scruma Master Certification Preparatory Course (Indra Company)
+- Java One - São Paulo - SP (Indra Company)
 
 ## Publications
 
@@ -182,13 +200,13 @@ IV NosqlBA
  - Ucsal
  - [Review](http://javabahia.blogspot.com/2019/04/review-nosqlba-2019-06042019.html){:target="_blank"}
 
-`03/2019` 
+`03/2018` 
 III NosqlBA
  - Nosql event promoted by Java Bahia in partnership with UCSAL that aimed to promote and discuss the use of Nosql technologies and polyglot persistence
  - Ucsal
  - [Review](http://javabahia.blogspot.com/2018/03/retrospectiva-nosqlba-2018.html){:target="_blank"}
 
-`03/2019` 
+`03/2017` 
 II NosqlBA
  - Nosql event promoted by Java Bahia in partnership with UCSAL that aimed to promote and discuss the use of Nosql technologies and polyglot persistence
  - Ucsal
@@ -214,8 +232,8 @@ II NosqlBA
 `2016-present`
 Java Bahia JUG (Java User Group) - Salvador/Bahia/Brazil
 - JUG is a Java user group. In Bahia, it was founded around 2005 and since then many people have joined and no longer contribute actively, but they will never stop being part of JUG.
- + [Follow us](https://twitter.com/javabahia){:target="_blank"}
- + [Follow us](https://www.youtube.com/@Javabahia){:target="_blank"}
- + [Follow us](https://github.com/javabahia){:target="_blank"}
+ + [Follow us on Twitter](https://twitter.com/javabahia){:target="_blank"}
+ + [Follow us on youtube](https://www.youtube.com/@Javabahia){:target="_blank"}
+ + [Follow us on github](https://github.com/javabahia){:target="_blank"}
 
 
