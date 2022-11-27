@@ -7,7 +7,7 @@ Software Developer, Software Engineer
 
 <div id="webaddress">
 <a href="mailto:antonio.lazaro@gmail.com Subject: Contact from CV on github">Contact me from an email</a>
-| <a href="https://antoniolazaro.dev/">My personal blog</a>
+| <a href="https://antoniolazaro.dev/" target="_blank">My personal blog</a>
 </div>
 
 
