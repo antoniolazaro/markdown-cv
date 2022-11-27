@@ -163,34 +163,34 @@ __Regular Student - Activities and societies__:
 
 ### Conferences promoted
 
-#### VI NosqlBA (Online edition)
+`09/2021`
+VI NosqlBA (Online edition)
  - Nosql event promoted by Java Bahia in partnership with UCSAL that aimed to promote and discuss the use of Nosql technologies and polyglot persistence
- - 2021
  - [Event warm-up Youtube Playlist](https://www.youtube.com/watch?v=UuUsCSRFgy4&list=PLTm1u1IYH36QH36HpfuC97wQR6auv7O5p){:target="_blank"}
  - [Conference youtube playlist](https://www.youtube.com/watch?v=YTuctfzp5-8&list=PLTm1u1IYH36RbTMfkWXUU85cLx8urUh15){:target="_blank"}
  
-#### V NosqlBA (Online edition)
+`09/2020`
+V NosqlBA (Online edition)
  - Nosql event promoted by Java Bahia in partnership with UCSAL that aimed to promote and discuss the use of Nosql technologies and polyglot persistence
- - 2020
  - [Event warm-up Youtube Playlist](https://www.youtube.com/watch?v=G0nViPCrE_o&list=PLTm1u1IYH36SckYqoDZrHcm4wLOozljuh){:target="_blank"}
  - [Conference youtube playlist](https://www.youtube.com/watch?v=a6uwrfJU90M&list=PLTm1u1IYH36R_d4pnhB42orXZCzmTVPvm){:target="_blank"}
  - [Review](https://javabahia.github.io/review-nosqlba-2020/){:target="_blank"}
  
-#### IV NosqlBA
+`04/2019` 
+IV NosqlBA
  - Nosql event promoted by Java Bahia in partnership with UCSAL that aimed to promote and discuss the use of Nosql technologies and polyglot persistence
- - 06/04/2019
  - Ucsal
  - [Review](http://javabahia.blogspot.com/2019/04/review-nosqlba-2019-06042019.html){:target="_blank"}
 
-#### III NosqlBA
+`03/2019` 
+III NosqlBA
  - Nosql event promoted by Java Bahia in partnership with UCSAL that aimed to promote and discuss the use of Nosql technologies and polyglot persistence
- - 08 and 10 03/2018
  - Ucsal
  - [Review](http://javabahia.blogspot.com/2018/03/retrospectiva-nosqlba-2018.html){:target="_blank"}
 
-#### II NosqlBA
+`03/2019` 
+II NosqlBA
  - Nosql event promoted by Java Bahia in partnership with UCSAL that aimed to promote and discuss the use of Nosql technologies and polyglot persistence
- - 31/03/2017
  - Ucsal
  - [Review](http://javabahia.blogspot.com/2017/04/retrospectiva-nosqlba-2017.html){:target="_blank"}
 
