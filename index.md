@@ -43,25 +43,25 @@ Standing on the shoulders of giants
 
 `2003-2008`
 __Universidade Católica do Salvador (UCSAL) - Bachelor in Computing__
-- A KNOWLEDGE-BASED SOLUTION FOR STORAGE AND RETRIEVAL OF UCSAL SCIENTIFIC PRODUCTION.
-- *Tutor:* Osvaldo Requião Melo
+- *Final paper:* [A KNOWLEDGE-BASED SOLUTION FOR STORAGE AND RETRIEVAL OF UCSAL SCIENTIFIC PRODUCTION.](https://www.slideshare.net/antoniolazarobr/uma-solucao-baseada-em-gestao-de-conhecimento-para-armazenamentorecuperacao-de-producoes-cientificas-da-ucsal){:target="_blank"}
+- *Tutor:* [Osvaldo Requião Melo](https://www.linkedin.com/in/osvaldo-requi%C3%A3o-7a31679/){:target="_blank"}
 
 `2010 - 2011`
 __Faculdade Ruy Barbosa - Postgraduate in Software Engineering__
-- The use of Wiki as a knowledge management tool.
-- *Tutor:* Marcos Lapa Dos Santos.
+- *Final paper:* [The use of Wiki as a knowledge management tool.](https://www.slideshare.net/antoniolazarobr/o-uso-do-wiki-como-ferramenta-de-gestao-do-conhecimento){:target="_blank"}
+- *Tutor:* [Marcos Lapa Dos Santos](https://www.linkedin.com/in/marcos-lapa-msc-55692145){:target="_blank"}
 
 - Master Degree (MSC) - Not completed
 
 `2016`
-__Special Student - MATD76 (Programming language paradigms) - Professor: Phd Lais do Nascimento Salvador__
+__Special Student - MATD76 (Programming language paradigms) - Professor: [Phd Lais do Nascimento Salvador](https://scholar.google.com.br/citations?user=2K55BbsAAAAJ&hl=pt-BR){:target="_blank"}__
 
 `2016`
-__Special Student - MATD70 (Ubiquitous and context-aware computing) - Professor: Phd Vaninha Vieira__
+__Special Student - MATD70 (Ubiquitous and context-aware computing) - Professor: [PHD Vaninha Vieira](https://www.linkedin.com/in/vaninha-vieira-bab2098/){:target="_blank"}__
 
 `2021-2021`
 __Regular Student - Activities and societies: 
-* *Tutor:* PHD Vaninha Vieira
+* *Tutor:* [PHD Vaninha Vieira](https://www.linkedin.com/in/vaninha-vieira-bab2098/){:target="_blank"}
 * *Area of interest:* Context Sensitive System, Computing Aware
 
 - Fellow
