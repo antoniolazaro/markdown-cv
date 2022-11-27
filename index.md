@@ -6,8 +6,8 @@ title: Antonio Lazaro's CV
 Software Developer, Software Engineer
 
 <div id="webaddress">
-<a href="antonio.lazaro@gmail.com">isaac@applesdofall.org</a>
-| <a href="https://antoniolazaro.dev/">My website</a>
+<a href="mailto:antonio.lazaro@gmail.com Subject: Contact from CV on github">Contact me from an email</a>
+| <a href="https://antoniolazaro.dev/">My personal blog</a>
 </div>
 
 
