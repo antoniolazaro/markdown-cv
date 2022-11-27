@@ -17,26 +17,52 @@ Standing on the shoulders of giants
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+* Java Platform
+* Java Language
+* Kotlin
+* Backend Development
+* Web Development
 
 
-### Research interests
+### Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+* Software Engineering
+* Sofware Archtecture
+* Distributed Systems
+* Microservices Archtecture
+* Event-driven Archtecture
+* Reative programming
+* Cloud computing
+* Programming in general
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+- [Google Scholar Profile](https://scholar.google.com/citations?user=zE1YpzMAAAAJ&hl=en){:target="_blank"}
+- [Lattes Platform Profile](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4080946U0&tokenCaptchar=03AEkXODAykE9yn5FJ0InuBqEJhO4cH-Y2LzKzuRESy3mNPcOTmXGV2myBzvMMIDmXkUrTO7PD_zePRreKhnW9s791lfDM-TKxvRJz5SRKIRSYdOUCluwHSlWK1qpQpH5z7wJsEWxFaCFnoXN3kmrKaOxx8hQolhQs69CeqmD18Ua8XbA6Dhe-KVAj3593kxLvqt9WY6oZoCTAankRvf5IEpg_9-jzhJSbeByE7gcqWV03RHS1DBwvVpid08IhuuJ4K4wAN0f5uR2GUtEJs5D6LbueQytI2nJM1IpiYFp5xYcmtGEHuuQkA89oFqIHt7OZHQmzKRCaYEeWd71_gZfpC9EK03lHoQq5-avRQeaQVnbk-PPc-wtn1lx5dmTWfb8Pl3rUzy6cIBtsy1Nnp7hxzTnQw-qMLdks_ncSirk-PReK7p2BShvUPo1xLd7uOEXFKjAgbONiEw6iDFgsVOyGYCx-QNNkhaU-SFLFx4SksG4kXBi88lCkMOUDrizo2r6c04fSNLH5Rq0N_hR1AybOjedILLayiuZaNQ){:target="_blank"}
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2003-2008`
+__Universidade Católica do Salvador (UCSAL) - Bachelor in Computing__
+- A KNOWLEDGE-BASED SOLUTION FOR STORAGE AND RETRIEVAL OF UCSAL SCIENTIFIC PRODUCTION.
+- *Tutor:* Osvaldo Requião Melo
 
-- Sizar
+`2010 - 2011`
+__Faculdade Ruy Barbosa - Postgraduate in Software Engineering__
+- The use of Wiki as a knowledge management tool.
+- *Tutor:* Marcos Lapa Dos Santos.
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Master Degree (MSC) - Not completed
+
+`2016`
+__Special Student - MATD76 (Programming language paradigms) - Professor: Phd Lais do Nascimento Salvador__
+
+`2016`
+__Special Student - MATD70 (Ubiquitous and context-aware computing) - Professor: Phd Vaninha Vieira__
+
+`2021-2021`
+__Regular Student - Activities and societies: 
+* *Tutor:* PHD Vaninha Vieira
+* *Area of interest:* Context Sensitive System, Computing Aware
 
 - Fellow
 
