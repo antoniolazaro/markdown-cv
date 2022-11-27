@@ -35,6 +35,16 @@ Standing on the shoulders of giants
 * Cloud computing
 * Programming in general
 
+## Occupation
+
+`1600`
+__Royal Mint__, London
+
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
 
 ## Education
 
@@ -153,37 +163,40 @@ __Regular Student - Activities and societies__:
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Conferences promoted
+#### Conferences promoted
 
-#### VI NosqlBA (Online edition)
+##### VI NosqlBA (Online edition)
  - Nosql event promoted by Java Bahia in partnership with UCSAL that aimed to promote and discuss the use of Nosql technologies and polyglot persistence
  - 2021
  - [Event warm-up Youtube Playlist](https://www.youtube.com/watch?v=UuUsCSRFgy4&list=PLTm1u1IYH36QH36HpfuC97wQR6auv7O5p){:target="_blank"}
  - [Conference youtube playlist](https://www.youtube.com/watch?v=YTuctfzp5-8&list=PLTm1u1IYH36RbTMfkWXUU85cLx8urUh15){:target="_blank"}
- -
-#### V NosqlBA (Online edition)
+ 
+##### V NosqlBA (Online edition)
  - Nosql event promoted by Java Bahia in partnership with UCSAL that aimed to promote and discuss the use of Nosql technologies and polyglot persistence
  - 2020
  - [Event warm-up Youtube Playlist](https://www.youtube.com/watch?v=G0nViPCrE_o&list=PLTm1u1IYH36SckYqoDZrHcm4wLOozljuh){:target="_blank"}
  - [Conference youtube playlist](https://www.youtube.com/watch?v=a6uwrfJU90M&list=PLTm1u1IYH36R_d4pnhB42orXZCzmTVPvm){:target="_blank"}
-#### IV NosqlBA
+ - [Review](https://javabahia.github.io/review-nosqlba-2020/){:target="_blank"}
+ 
+##### IV NosqlBA
  - Nosql event promoted by Java Bahia in partnership with UCSAL that aimed to promote and discuss the use of Nosql technologies and polyglot persistence
  - 06/04/2019
  - Ucsal
  - [Review](http://javabahia.blogspot.com/2019/04/review-nosqlba-2019-06042019.html){:target="_blank"}
 
-#### III NosqlBA
+##### III NosqlBA
  - Nosql event promoted by Java Bahia in partnership with UCSAL that aimed to promote and discuss the use of Nosql technologies and polyglot persistence
  - 08 and 10 03/2018
  - Ucsal
  - [Review](http://javabahia.blogspot.com/2018/03/retrospectiva-nosqlba-2018.html){:target="_blank"}
 
-#### II NosqlBA
+##### II NosqlBA
  - Nosql event promoted by Java Bahia in partnership with UCSAL that aimed to promote and discuss the use of Nosql technologies and polyglot persistence
  - 31/03/2017
  - Ucsal
  - [Review](http://javabahia.blogspot.com/2017/04/retrospectiva-nosqlba-2017.html){:target="_blank"}
 
+#### Promoted Training
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
@@ -193,22 +206,16 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Patents
+### Community or open source contributions
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2016-present`
+Java Bahia JUG (Java User Group) - Salvador/Bahia/Brazil
+- JUG is a Java user group. In Bahia, it was founded around 2005 and since then many people have joined and no longer contribute actively, but they will never stop being part of JUG.
+ + [Follow us](https://twitter.com/javabahia){:target="_blank"}
+ + [Follow us](https://www.youtube.com/@Javabahia){:target="_blank"}
+ + [Follow us](https://github.com/javabahia){:target="_blank"}
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
