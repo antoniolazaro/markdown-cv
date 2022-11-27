@@ -38,8 +38,8 @@ Standing on the shoulders of giants
 
 ## Education
 
-`2003-2008`
 ### Bachelor in Computing
+`2003-2008`
 __Universidade Católica do Salvador (UCSAL)__
 - *Final paper:* [A KNOWLEDGE-BASED SOLUTION FOR STORAGE AND RETRIEVAL OF UCSAL SCIENTIFIC PRODUCTION.](https://www.slideshare.net/antoniolazarobr/uma-solucao-baseada-em-gestao-de-conhecimento-para-armazenamentorecuperacao-de-producoes-cientificas-da-ucsal){:target="_blank"}
 - *Tutor:* [Osvaldo Requião Melo](https://www.linkedin.com/in/osvaldo-requi%C3%A3o-7a31679/){:target="_blank"}
@@ -85,6 +85,31 @@ __Regular Student - Activities and societies__:
 
 ### Professional
 
+`09/05/2019`
+- *Event:* PODCAST iTexto - Resgatando JSF
+- *Title:* Hangout com Kico Lobo sobre Spring.
+- *Where:* Itexto Youtube Channel [Link - Subscribe it!]([https://www.youtube.com/@SouJava](https://www.youtube.com/@itexto3615)){:target="_blank"}
+- *Description:* In the live, this web development monster that is JSF was approached. A monster that, despite not appearing much in the media these days, still pays a lot of people's bills!
+- *Entity:* Itexto
+- *Slides:* [Link](https://www.youtube.com/watch?v=8QROTNqi3bI){:target="_blank"}
+
+`2017-2019`
+- *Event:* Some events organized by the university communities and by the Java Bahia JUG with the objective of talking about the changes in the java ecosystem.
+- *Title:* Java também é Hipster.
+- *Where:* Some Universities (UniJorge, Estácio, Unifacs, Faculdade Visconde de Cairu, Unime)
+- *Description:* talking about the changes in the java ecosystem.
+- *Entity:* Java Bahia
+- *Slides:* [Link](https://www.youtube.com/watch?v=2ON77i5aMhE){:target="_blank"}
+
+
+`18/09/2017`
+- *Event:* SQL Saturday #677
+- *Title:* NoSQL o que é isso?
+- *Where:* Faculdade Estácio
+- *Description:* O SQL SATURDAY é uma conferencia de um dia que fornece a oportunidade a profissionais de dados, gerentes, desenvolvedores e estudantes de aprender com diversas sessões técnicas sobre os melhores recursos de tecnologias de dados mais recentes do Mercado.
+- *Entity:* Java Bahia
+- *Slides:* [Link]([https://www.youtube.com/watch?v=2ON77i5aMhE](https://www.slideshare.net/antoniolazarobr/no-sql-oqueeissokey)){:target="_blank"}
+
 `03/2017`
 - *Event:* Hangout SouJava
 - *Title:* Hangout com Kico Lobo sobre Spring.
@@ -128,7 +153,37 @@ __Regular Student - Activities and societies__:
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Conferences promoted
+
+#### VI NosqlBA (Online edition)
+ - Nosql event promoted by Java Bahia in partnership with UCSAL that aimed to promote and discuss the use of Nosql technologies and polyglot persistence
+ - 2021
+ - [Event warm-up Youtube Playlist](https://www.youtube.com/watch?v=UuUsCSRFgy4&list=PLTm1u1IYH36QH36HpfuC97wQR6auv7O5p){:target="_blank"}
+ - [Conference youtube playlist](https://www.youtube.com/watch?v=YTuctfzp5-8&list=PLTm1u1IYH36RbTMfkWXUU85cLx8urUh15){:target="_blank"}
+ -
+#### V NosqlBA (Online edition)
+ - Nosql event promoted by Java Bahia in partnership with UCSAL that aimed to promote and discuss the use of Nosql technologies and polyglot persistence
+ - 2020
+ - [Event warm-up Youtube Playlist](https://www.youtube.com/watch?v=G0nViPCrE_o&list=PLTm1u1IYH36SckYqoDZrHcm4wLOozljuh){:target="_blank"}
+ - [Conference youtube playlist](https://www.youtube.com/watch?v=a6uwrfJU90M&list=PLTm1u1IYH36R_d4pnhB42orXZCzmTVPvm){:target="_blank"}
+#### IV NosqlBA
+ - Nosql event promoted by Java Bahia in partnership with UCSAL that aimed to promote and discuss the use of Nosql technologies and polyglot persistence
+ - 06/04/2019
+ - Ucsal
+ - [Review](http://javabahia.blogspot.com/2019/04/review-nosqlba-2019-06042019.html){:target="_blank"}
+
+#### III NosqlBA
+ - Nosql event promoted by Java Bahia in partnership with UCSAL that aimed to promote and discuss the use of Nosql technologies and polyglot persistence
+ - 08 and 10 03/2018
+ - Ucsal
+ - [Review](http://javabahia.blogspot.com/2018/03/retrospectiva-nosqlba-2018.html){:target="_blank"}
+
+#### II NosqlBA
+ - Nosql event promoted by Java Bahia in partnership with UCSAL that aimed to promote and discuss the use of Nosql technologies and polyglot persistence
+ - 31/03/2017
+ - Ucsal
+ - [Review](http://javabahia.blogspot.com/2017/04/retrospectiva-nosqlba-2017.html){:target="_blank"}
+
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
