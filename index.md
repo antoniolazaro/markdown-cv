@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Antonio Lazaro's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Antonio Lazaro
+Software Developer, Software Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="antonio.lazaro@gmail.com">isaac@applesdofall.org</a>
+| <a href="https://antoniolazaro.dev/">My website</a>
 </div>
 
 
