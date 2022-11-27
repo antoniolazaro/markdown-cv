@@ -39,11 +39,19 @@ Professional with more than 15 years of experience building corporate applicatio
 
 ### Professional
 
-`02/2007 - 12/2007 (11 months)`
-__Programmer__, [Indados TI]{:target="_blank"} - Salvador/Bahia/Brazil
+`02/2007 - 12/2007`
+__Programmer__, [Indados TI] - Salvador/Bahia/Brazil
+- Tech Stack: Java, JEE, EJB, Struts 1.x, Servlets, JSP JDBC, Oracle, CVS
+- Important projects:
+ + A: 
+ + B: 
 
-`02/2006 - 12/2006 (11 months)`
+`02/2006 - 12/2006`
 __Trainee software development__, [DBA Engenharia de sistemas](https://www.linkedin.com/company/dba/){:target="_blank"} - Salvador/Bahia/Brazil
+- Tech Stack: Java, JEE, EJB, Struts 1.x, Servlets, JSP JDBC, Oracle, CVS
+- Important projects:
+ + A: 
+ + B: 
 
 
 ### Academic
