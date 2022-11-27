@@ -37,12 +37,20 @@ Professional with more than 15 years of experience building corporate applicatio
 
 ## Occupation
 
+### Professional
+
+`02/2007 - 12/2007 (11 months)`
+__Programmer__, [Indados TI]{:target="_blank"} - Salvador/Bahia/Brazil
+
+`02/2006 - 12/2006 (11 months)`
+__Trainee software development__, [DBA Engenharia de sistemas](https://www.linkedin.com/company/dba/){:target="_blank"} - Salvador/Bahia/Brazil
+
+
 ### Academic
 
-`1600`
-__Royal Mint__, London
-
-### Professional
+`2019`
+__Pos-graduation Teacher__, Universidade Salvador (Unifacs)
+- Subjects: Service-oriented Architecture and Advanced Topics in Web Development
 
 
 ## Education
