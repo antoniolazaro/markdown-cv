@@ -198,7 +198,7 @@ II NosqlBA
 
 `12/2018->01/2019`
 - TI for Woman Capgemini program training in Java and Java WEB development
-- *Contractor:* Capgemini
+- *Contractor:* [Capgemini](https://www.capgemini.com/br-pt/){:target="_blank"}
 
 `05/2016->05/2016`
 - Training Indra trainees in Java and Java WEB development (JSF, EJB and JPA)
