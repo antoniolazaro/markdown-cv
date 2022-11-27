@@ -11,9 +11,9 @@ Software Developer, Software Engineer
 </div>
 
 
-## Currently
+## Short profile description
 
-Standing on the shoulders of giants
+Professional with more than 15 years of experience building corporate applications. I have a greater professional focus on Backend but as a continuous learner I have no restrictions on learning technologies and platforms.
 
 ### Specialized in
 
@@ -199,7 +199,7 @@ II NosqlBA
 `12/2018->01/2019`
 - TI for Woman Capgemini program training in Java and Java WEB development
 - *Contractor:* Capgemini
-- 
+
 `05/2016->05/2016`
 - Training Indra trainees in Java and Java WEB development (JSF, EJB and JPA)
 - *Contractor:* [Indra Company](https://www.indracompany.com/pt-br/){:target="_blank"}
