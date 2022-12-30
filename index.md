@@ -41,68 +41,35 @@ Professional with more than 15 years of experience building corporate applicatio
 
 `04/2020 - 11/2021`
 __Software Developer__, [Jaya Tech](https://www.linkedin.com/company/jaya-apps/mycompany/){:target="_blank"} - Remote
-- Short description:
 - Tech Stack: Java, Kotlin, AWS, RabitMQ, SQS, SNS, SpringBoot, CI/CD, GIT, K8, Docker, Kibana
-- Important projects:
- + A: 
- + B: 
  
 `04/2018 - 04/2020`
 __Software Developer, Team Leader and Architect__, [Indra](https://www.linkedin.com/company/indra/){:target="_blank"} - Remote
-- Short description:
 - Tech Stack: Java, JEE, EJB, Servlets, JDBC, Oracle, CVS, GIT, Javascript, JPA, JSF, Hibernate
-- Important projects:
- + A: 
- + B: 
   
 `03/2017 - 04/2018`
 __Software Developer, Team Leader and Architect__, [Topos](https://www.linkedin.com/company/topos-inform%C3%A1tica/){:target="_blank"} - Salvador/Bahia/Brazil
-- Short description:
 - Tech Stack: Java, JEE, Spring Framework, Rest, JSF, Primefaces, Redis, MongoDB, Oracle, JDBC, JPA, Hibernate, JMS, Weblogic, GIT, Docker
-- Important projects:
- + A: 
- + B: 
  
 `07/2012 - 03/2017`
 __Software Developer, Team Leader and Architect__, [Indra](https://www.linkedin.com/company/indra/){:target="_blank"} - Salvador/Bahia/Brazil
-- Short description:
 - Tech Stack: Java, JEE, EJB, Struts 1.x, Servlets, JSP JDBC, Oracle, CVS, GIT, Javascript, JPA, JSF, Hibernate, Weblogic, Tomcat
-- Important projects:
- + A: 
- + B: 
  
 `06/2008 - 07/2012`
 __Software Developer and Team Leader__, [Meta](https://www.linkedin.com/company/metaoficial/){:target="_blank"} - Salvador/Bahia/Brazil
-- Short description:
 - Tech Stack: Java, JEE, EJB, Struts 1.x, Servlets, JSP JDBC, Oracle, CVS, GIT, Javascript, JPA, JSF, Hibernate, Weblogic, Tomcat
-- Important projects:
- + A: 
- + B: 
 
 `02/2008 - 06/2008`
 __Programmer__, [Polo TI](https://www.linkedin.com/company/polo-it/){:target="_blank"} - Salvador/Bahia/Brazil
-- Short description:
 - Tech Stack: Java, JEE, EJB, Struts 1.x, Servlets, JSP JDBC, Oracle, CVS, Jboss
-- Important projects:
- + A: 
- + B: 
 
 `02/2007 - 12/2007`
 __Programmer__, [Indados TI] - Lauro de Freitas/Bahia/Brazil
-- Short description:
 - Tech Stack: Java, JEE, EJB, Struts 1.x, Servlets, JSP JDBC, Oracle, CVS, Jboss
-- Important projects:
- + A: 
- + B: 
 
 `02/2006 - 12/2006`
 __Trainee software development__, [DBA Engenharia de sistemas](https://www.linkedin.com/company/dba/){:target="_blank"} - Salvador/Bahia/Brazil
 - Tech Stack: Java, JEE, EJB, Struts 1.x, Servlets, JSP JDBC, Oracle, CVS, Hibernate, Jboss
-- Short description:
-- Important projects:
- + A: 
- + B: 
-
 
 ### Academic
 
